@@ -7,6 +7,10 @@
 * 사용 기술 : Spring boot, Servlet, JSP, Bootstrap, jQuery, Ajax, Vue,js
 * 2인 팀 개발
 
+<img width="999" alt="스크린샷 2021-05-22 오전 12 27 47" src="https://user-images.githubusercontent.com/24769585/119162011-dc5de800-ba94-11eb-839a-25cbdb6f4f15.png">
+<img width="999" alt="스크린샷 2021-05-22 오전 12 28 09" src="https://user-images.githubusercontent.com/24769585/119162024-dff16f00-ba94-11eb-89ca-a3793f1fd8e1.png">
+
+
 ### 🔨 주요 기능
 1. 회원 관리 기능
 	* 로그인/ 로그아웃
